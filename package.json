@@ -1,0 +1,21 @@
+{
+  "name": "paths2tree",
+  "description": "Convert a list of paths into a tree.",
+  "keywords": [
+    "paths2tree",
+    "convert",
+    "a",
+    "list",
+    "of",
+    "paths",
+    "into",
+    "tree"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău"
+}
